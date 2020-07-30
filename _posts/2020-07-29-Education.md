@@ -11,3 +11,11 @@ title: Education
 | 2017.02 -         | **Korea Advanced Institute of Science and Technology** <br> Ph.D candidate in Civil and Environmental Engineering|
 
 
+| Years | Experience |
+|:---|:---|
+| 2014.01 - 2014.07  | Exchange student in ***Université de Technologie Compiegne*** |
+| 2017.05 - 2017.08  | Visiting scholar in ***University of Queensland*** |
+| 2018.10 - 2018.11  | Visiting scholar in ***University of Queensland*** |
+
+
+
