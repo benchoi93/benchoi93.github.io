@@ -6,15 +6,15 @@ title: Publications
 
 ## International Journals
 
-***Choi, Seongjin***, Jiwon Kim, and Hwasoo Yeo. "TrajGAIL: Generating Urban Trajectories using Generative Adversarial Imitation Learning." arXiv preprint arXiv:2007.14189 (2020).
-Lee, Donghoun, Sehyun Tak, ***Seongjin Choi***, and Hwasoo Yeo. "Development of risk predictive collision avoidance system and its impact on traffic and vehicular safety." Transportation research record 2673.7 (2019): 454-465.
-Kim, Yeeun, ***Seongjin Choi***, and Hwasoo Yeo. "Extended Urban Cell Transmission Model Using Agent-based Modeling." Procedia Computer Science 170 (2020): 354-361.
-Kim, Yeeun, ***Seongjin Choi***, Jihyuk Park, and Hwasoo Yeo. "Agent-based Mesoscopic Urban Traffic Simulation based on Multi-lane Cell Transmission Model." Procedia Computer Science 151 (2019): 240-247.
-***Choi, Seongjin***, Jiwon Kim, and Hwasoo Yeo. "Attention-based Recurrent Neural Network for Urban Vehicle Trajectory Prediction." arXiv preprint arXiv:1812.07151 (2018).
-Tak, Sehyun, Donghoun Lee, ***Seongjin Choi***, and Hwasoo Yeo. "Collision Avoidance System with Uni-directional Communication for mitigating the Adverse Effects on Following Vehicles." WIT Transactions on The build Enviornment, 176, 417-429
-***Choi, Seongjin***, Hwasoo Yeo, and Jiwon Kim. "Network-wide Vehicle Trajectory Prediction in Urban Traffic Networks Using Deep Learning" Transportation Research Record (2018).
-Kim, Yeeun, Sehyun Tak, ***Seongjin Choi***, and Hwasoo Yeo. “Driver’s Eye Glance Transitions and the Implications on the Microscopic Traffic and Accident Simulation.” WIT Transactions on The Built Environment 174 (2018): 381-391
-***Choi, Seongjin***, Jonghae Suh, and Hwasoo Yeo. "Microscopic Analysis of Climbing Lane Performance at Freeway Uphill Section." Transportation Research Procedia 21 (2017): 98-109.
+ * ***Choi, Seongjin***, Jiwon Kim, and Hwasoo Yeo. "TrajGAIL: Generating Urban Trajectories using Generative Adversarial Imitation Learning." arXiv preprint arXiv:2007.14189 (2020).
+* Lee, Donghoun, Sehyun Tak, ***Seongjin Choi***, and Hwasoo Yeo. "Development of risk predictive collision avoidance system and its impact on traffic and vehicular safety." Transportation research record 2673.7 (2019): 454-465.
+* Kim, Yeeun, ***Seongjin Choi***, and Hwasoo Yeo. "Extended Urban Cell Transmission Model Using Agent-based Modeling." Procedia Computer Science 170 (2020): 354-361.
+* Kim, Yeeun, ***Seongjin Choi***, Jihyuk Park, and Hwasoo Yeo. "Agent-based Mesoscopic Urban Traffic Simulation based on Multi-lane Cell Transmission Model." Procedia Computer Science 151 (2019): 240-247.
+* ***Choi, Seongjin***, Jiwon Kim, and Hwasoo Yeo. "Attention-based Recurrent Neural Network for Urban Vehicle Trajectory Prediction." arXiv preprint arXiv:1812.07151 (2018).
+* Tak, Sehyun, Donghoun Lee, ***Seongjin Choi***, and Hwasoo Yeo. "Collision Avoidance System with Uni-directional Communication for mitigating the Adverse Effects on Following Vehicles." WIT Transactions on The build Enviornment, 176, 417-429
+* ***Choi, Seongjin***, Hwasoo Yeo, and Jiwon Kim. "Network-wide Vehicle Trajectory Prediction in Urban Traffic Networks Using Deep Learning" Transportation Research Record (2018).
+* Kim, Yeeun, Sehyun Tak, ***Seongjin Choi***, and Hwasoo Yeo. “Driver’s Eye Glance Transitions and the Implications on the Microscopic Traffic and Accident Simulation.” WIT Transactions on The Built Environment 174 (2018): 381-391
+* ***Choi, Seongjin***, Jonghae Suh, and Hwasoo Yeo. "Microscopic Analysis of Climbing Lane Performance at Freeway Uphill Section." Transportation Research Procedia 21 (2017): 98-109.
 
 ## International Conferences
 
