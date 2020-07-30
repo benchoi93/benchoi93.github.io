@@ -13,9 +13,9 @@ title: Education & Experience
 
 | Years | Experience |
 |:---|:---|
-| 2014.01 - 2014.07  | Exchange student in ***Université de Technologie Compiegne*** |
-| 2017.05 - 2017.08  | Visiting scholar in ***University of Queensland*** |
-| 2018.10 - 2018.11  | Visiting scholar in ***University of Queensland*** |
+| 2014.01 - 2014.07  | Exchange student in <br> Université de Technologie Compiegne|
+| 2017.05 - 2017.08  | Visiting scholar in <br> University of Queensland |
+| 2018.10 - 2018.11  | Visiting scholar in <br> University of Queensland |
 
 
 
