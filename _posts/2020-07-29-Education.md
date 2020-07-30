@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Education
+title: Education & Experience
 ---
 
 
