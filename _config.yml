@@ -3,7 +3,7 @@ title:            Seongjin Choi
 tagline:          ''
 description:      'Researcher in Transportation Enginnering specialized in Traffic Simulation and Deep learning'
 url:              https://benchoi93.github.io
-baseurl:          https://benchoi93.github.io
+baseurl:          ''
 paginate:         5
 
 # About and contact
