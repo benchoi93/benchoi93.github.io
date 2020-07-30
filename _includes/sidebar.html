@@ -27,12 +27,22 @@
         {% endif %}
       {% endfor %}
       -->
+      
       <a class="sidebar-nav-item" href="{{ site.url }}">Home</a>
+
+      {% for post in paginator.posts %}
+          <a class="sidebar-nav-item" href="{{ post.url | absolute_url }}">
+            {{ post.title }}
+          </a>
+      {% endfor %}
+      
+      
+      <!--
       <a class="sidebar-nav-item" href="{{ site.url }}/archive/v{{ site.version }}.zip">Education</a>
       <a class="sidebar-nav-item" href="{{ site.url }}">Publications</a>
       <a class="sidebar-nav-item" href="{{ site.url }}">Research Projects</a>
       <a class="sidebar-nav-item" href="{{ site.url }}">Patents and Softwares</a>
-
+      -->
     </nav>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
