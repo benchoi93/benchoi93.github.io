@@ -6,4 +6,4 @@ title: Education
 
 | Years | Education |
 |---|:---:|
-| `static` | 유형(기준) 없음 / 배치 불가능 |
+| 2011.02 - 2015.08 | Korea Advanced Institute of Science and Technology </br> Bachelor in Civil and Environmental Engineering|
