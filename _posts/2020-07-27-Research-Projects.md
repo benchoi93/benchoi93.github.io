@@ -25,12 +25,10 @@ title: Research Projects
 * Technical Trend Survey Analysis for Condition-Based Maintenance (CBM) system for Advanced Railway Electrical Equipment Maintenance System <br> <철도전기설비 유지보수체계 고도화를 위한 상태기반 유지관리체계 기술동향 조사 분석 >
 * Development of DQN Reinforcement Learning based Intelligent Signalized Intersection Interlocking control technology <br> <DQN 강화학습을 이용한 지능형 신호교차로 신호연동 제어 기술 개발 >
 * Development of Large Scale Traffic Signal Control System based on AI for Metropolitan Area <br> <대도시권을 위한 인공지능기반 대규모 교통신호 제어기술 개발 >
-
-
-일반차와 자율주행차/커넥티드카의 시나리오 및 문제점 도출 연구(2018)
-초연결(ultra-connected) 스마트 도시를 위한 수요 대응형 신교통수단 연구
-MFD 기반의 도심 지역단위 교통량 변화 행태 분석(2018)
-캠퍼스 교통체계 장기개선 방안 연구
+* 일반차와 자율주행차/커넥티드카의 시나리오 및 문제점 도출 연구(2018)
+* 초연결(ultra-connected) 스마트 도시를 위한 수요 대응형 신교통수단 연구
+* MFD 기반의 도심 지역단위 교통량 변화 행태 분석(2018)
+* 캠퍼스 교통체계 장기개선 방안 연구
 
 
 ## 2017
