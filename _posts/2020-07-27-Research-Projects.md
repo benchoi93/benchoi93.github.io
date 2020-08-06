@@ -6,7 +6,7 @@ title: Research Projects
 
 
 ## 2020
-* Project Manager : ***Development of Behavior model for Cooperative Autonomous Vehicle and Demand-Responsive Routing Algorithm*** <br> 
+* Project Manager : ***Development of Behavior model for Cooperative Autonomous Vehicle Simulation and Demand-Responsive Routing Algorithm*** <br> 
 <자율협력주행 시뮬레이션 behavior model 및 수요응답 경로 산출 알고리즘 개발>
 * 머신러닝과 시뮬레이션 방법을 결합한 미래 교통상태 예측 기법 개발
 
@@ -14,7 +14,7 @@ title: Research Projects
 
 
 ## 2019
-* Project Manager : ***Development of Behavior model for Cooperative Autonomous Vehicle and Demand-Responsive Routing Algorithm*** <br> 
+* Project Manager : ***Development of Behavior model for Cooperative Autonomous Vehicle Simulation and Demand-Responsive Routing Algorithm*** <br> 
 <자율협력주행 시뮬레이션 behavior model 및 수요응답 경로 산출 알고리즘 개발>
 * 머신러닝과 시뮬레이션 방법을 결합한 미래 교통상태 예측 기법 개발
 
